@@ -3,8 +3,5 @@
     "/content/aem-ue/:/",
     "/content/aem-ue/configuration:/.helix/config.json",
     "/content/aem-ue/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/aem-ue/"
   ]
 }
