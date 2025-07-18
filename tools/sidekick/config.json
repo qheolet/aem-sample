@@ -1,6 +1,6 @@
 {
   "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "http://google.com"
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
 
