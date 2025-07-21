@@ -150,6 +150,10 @@
     ]
   },
   {
+    "id": "body",
+    "fields": []
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -186,10 +190,6 @@
         "label": "Rows"
       }
     ]
-  },
-  {
-    "id": "container",
-    "fields": []
   },
   {
     "id": "fragment",

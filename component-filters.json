@@ -20,6 +20,10 @@
     ]
   },
   {
+    "id": "body",
+    "components": []
+  },
+  {
     "id": "cards",
     "components": [
       "card"
@@ -39,9 +43,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "container",
-    "components": []
   }
 ]

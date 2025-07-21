@@ -1,14 +1,14 @@
 {
   "definitions": [
     {
-      "title": "Container",
-      "id": "container",
+      "title": "Body",
+      "id": "body",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/block/v1/block",
             "template": {
-              "name": "Container"
+              "name": "Body"
             }
           }
         }
@@ -17,13 +17,13 @@
   ],
   "models": [
      {
-      "id": "container",
+      "id": "body",
       "fields": []
      }
   ],
   "filters": [
     {
-      "id": "container",
+      "id": "body",
       "components": [
       ]
     }
