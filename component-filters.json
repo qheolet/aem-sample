@@ -16,8 +16,12 @@
       "cards",
       "columns",
       "fragment",
-      "container"
+      "body-container"
     ]
+  },
+  {
+    "id": "container",
+    "components": []
   },
   {
     "id": "cards",
@@ -39,9 +43,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "container",
-    "components": []
   }
 ]
