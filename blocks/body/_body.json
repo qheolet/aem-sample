@@ -25,10 +25,6 @@
     {
       "id": "body",
       "components": [
-        "text",
-        "image",
-        "button",
-        "title"
       ]
     }
   ]
