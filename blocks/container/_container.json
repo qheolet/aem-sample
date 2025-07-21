@@ -25,6 +25,7 @@
     {
       "id": "container",
       "components": [
+        "title"
       ]
     }
   ]

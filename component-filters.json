@@ -43,6 +43,8 @@
   },
   {
     "id": "container",
-    "components": []
+    "components": [
+      "title"
+    ]
   }
 ]
