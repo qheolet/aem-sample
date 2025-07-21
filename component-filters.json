@@ -19,6 +19,10 @@
     ]
   },
   {
+    "id": "container",
+    "components": []
+  },
+  {
     "id": "cards",
     "components": [
       "card"
