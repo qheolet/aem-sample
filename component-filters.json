@@ -20,15 +20,6 @@
     ]
   },
   {
-    "id": "body",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title"
-    ]
-  },
-  {
     "id": "cards",
     "components": [
       "card"
@@ -48,5 +39,9 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "body",
+    "components": []
   }
 ]
