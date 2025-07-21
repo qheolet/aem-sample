@@ -2,7 +2,8 @@
   {
     "id": "main",
     "components": [
-      "section"
+      "section",
+      "body"
     ]
   },
   {
@@ -41,7 +42,7 @@
     ]
   },
   {
-    "id": "container",
+    "id": "body",
     "components": []
   }
 ]
