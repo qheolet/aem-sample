@@ -2,7 +2,7 @@
   "definitions": [
     {
       "title": "Body Container",
-      "id": "container",
+      "id": "body-container",
       "plugins": {
         "xwalk": {
           "page": {
@@ -16,7 +16,7 @@
   "models": [],
   "filters": [
     {
-      "id": "container",
+      "id": "body-container",
       "components": [
       ]
     }

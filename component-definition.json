@@ -84,7 +84,7 @@
       "components": [
         {
           "title": "Body Container",
-          "id": "container",
+          "id": "body-container",
           "plugins": {
             "xwalk": {
               "page": {
