@@ -22,7 +22,7 @@
   {
     "id": "body-container",
     "components": [
-      "title"
+      "text"
     ]
   },
   {
