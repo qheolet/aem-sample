@@ -3,7 +3,8 @@
     "id": "main",
     "components": [
       "section",
-      "body-container"
+      "body-container",
+      "container"
     ]
   },
   {
