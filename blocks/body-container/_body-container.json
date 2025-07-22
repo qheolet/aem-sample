@@ -20,6 +20,7 @@
     {
       "id": "body-container",
       "components": [
+        "title"
       ]
     }
   ]
