@@ -151,7 +151,15 @@
   },
   {
     "id": "body-container",
-    "fields": []
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "Name",
+        "label": "Name",
+        "value": ""
+      }
+    ]
   },
   {
     "id": "card",
